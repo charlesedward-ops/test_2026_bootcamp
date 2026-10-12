@@ -12,10 +12,11 @@ def check_enemy_status(enemy_name, enemy_health):
         print(f"{enemy_name} is still standing.")
 
 
-player_name = "Ryu"
-enemy_name = "Shadow Bot"
-enemy_health = 75
-player_attack = 20
+
+player_name = "Munch Man"
+enemy_name = "Sister Sage"
+enemy_health = 100
+player_attack = 75
 
 print(f"{player_name} attacks {enemy_name}!")
 
